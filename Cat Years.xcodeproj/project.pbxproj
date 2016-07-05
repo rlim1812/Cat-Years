@@ -12,6 +12,7 @@
 		372FE76A1D2C374C00172F4E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 372FE7681D2C374C00172F4E /* Main.storyboard */; };
 		372FE76C1D2C374C00172F4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 372FE76B1D2C374C00172F4E /* Assets.xcassets */; };
 		372FE76F1D2C374C00172F4E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 372FE76D1D2C374C00172F4E /* LaunchScreen.storyboard */; };
+		372FE7771D2C386500172F4E /* Cartoon Cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 372FE7761D2C386500172F4E /* Cartoon Cat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		372FE76B1D2C374C00172F4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		372FE76E1D2C374C00172F4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		372FE7701D2C374C00172F4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		372FE7761D2C386500172F4E /* Cartoon Cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Cartoon Cat.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				372FE7641D2C374C00172F4E /* AppDelegate.swift */,
 				372FE7661D2C374C00172F4E /* ViewController.swift */,
 				372FE7681D2C374C00172F4E /* Main.storyboard */,
+				372FE7761D2C386500172F4E /* Cartoon Cat.png */,
 				372FE76B1D2C374C00172F4E /* Assets.xcassets */,
 				372FE76D1D2C374C00172F4E /* LaunchScreen.storyboard */,
 				372FE7701D2C374C00172F4E /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				372FE7771D2C386500172F4E /* Cartoon Cat.png in Resources */,
 				372FE76F1D2C374C00172F4E /* LaunchScreen.storyboard in Resources */,
 				372FE76C1D2C374C00172F4E /* Assets.xcassets in Resources */,
 				372FE76A1D2C374C00172F4E /* Main.storyboard in Resources */,
